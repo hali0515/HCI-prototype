@@ -1,0 +1,393 @@
+{
+  "design": "https://www.figma.com/design/5iONREmlx4oD7HM4Jsl3m6",
+  "prototype": "https://www.figma.com/proto/5iONREmlx4oD7HM4Jsl3m6?node-id=50-1117&starting-point-node-id=50%3A1117&scaling=contain&content-scaling=fixed",
+  "width": 1920,
+  "height": 1080,
+  "screens": [
+    {
+      "key": "explore",
+      "id": "50:1117",
+      "w": 1920,
+      "h": 1080
+    },
+    {
+      "key": "explore-selected",
+      "id": "50:2230",
+      "w": 1920,
+      "h": 1080
+    },
+    {
+      "key": "saved",
+      "id": "50:8748",
+      "w": 1920,
+      "h": 1080
+    },
+    {
+      "key": "compare",
+      "id": "50:9428",
+      "w": 1920,
+      "h": 1080
+    },
+    {
+      "key": "inspections",
+      "id": "50:9792",
+      "w": 1920,
+      "h": 1080
+    },
+    {
+      "key": "guide",
+      "id": "50:10111",
+      "w": 1920,
+      "h": 1080
+    },
+    {
+      "key": "glebe-overview",
+      "id": "50:10415",
+      "w": 1920,
+      "h": 1080
+    },
+    {
+      "key": "glebe-costs",
+      "id": "50:11350",
+      "w": 1920,
+      "h": 1080
+    },
+    {
+      "key": "glebe-trust",
+      "id": "50:12376",
+      "w": 1920,
+      "h": 1080
+    },
+    {
+      "key": "glebe-inspection",
+      "id": "50:13335",
+      "w": 1920,
+      "h": 1080
+    },
+    {
+      "key": "newtown-overview",
+      "id": "50:14484",
+      "w": 1920,
+      "h": 1080
+    },
+    {
+      "key": "newtown-costs",
+      "id": "50:15400",
+      "w": 1920,
+      "h": 1080
+    },
+    {
+      "key": "newtown-trust",
+      "id": "50:16427",
+      "w": 1920,
+      "h": 1080
+    },
+    {
+      "key": "newtown-inspection",
+      "id": "50:17364",
+      "w": 1920,
+      "h": 1080
+    },
+    {
+      "key": "redfern-overview",
+      "id": "50:18507",
+      "w": 1920,
+      "h": 1080
+    },
+    {
+      "key": "redfern-costs",
+      "id": "50:19420",
+      "w": 1920,
+      "h": 1080
+    },
+    {
+      "key": "redfern-trust",
+      "id": "50:20435",
+      "w": 1920,
+      "h": 1080
+    },
+    {
+      "key": "redfern-inspection",
+      "id": "50:21384",
+      "w": 1920,
+      "h": 1080
+    },
+    {
+      "key": "preferences",
+      "id": "50:22527",
+      "w": 1920,
+      "h": 1080
+    },
+    {
+      "key": "preferences-filled",
+      "id": "50:23406",
+      "w": 1920,
+      "h": 1080
+    },
+    {
+      "key": "preferences-updated",
+      "id": "50:24279",
+      "w": 1920,
+      "h": 1080
+    },
+    {
+      "key": "import",
+      "id": "50:25061",
+      "w": 1920,
+      "h": 1080
+    },
+    {
+      "key": "import-filled",
+      "id": "50:26017",
+      "w": 1920,
+      "h": 1080
+    },
+    {
+      "key": "imported",
+      "id": "50:26970",
+      "w": 1920,
+      "h": 1080
+    },
+    {
+      "key": "budget",
+      "id": "50:27871",
+      "w": 1920,
+      "h": 1080
+    },
+    {
+      "key": "dates",
+      "id": "50:28510",
+      "w": 1920,
+      "h": 1080
+    },
+    {
+      "key": "studio",
+      "id": "50:29149",
+      "w": 1920,
+      "h": 1080
+    },
+    {
+      "key": "search",
+      "id": "50:29637",
+      "w": 1920,
+      "h": 1080
+    },
+    {
+      "key": "empty",
+      "id": "50:30129",
+      "w": 1920,
+      "h": 1080
+    },
+    {
+      "key": "selected-one",
+      "id": "50:30502",
+      "w": 1920,
+      "h": 1080
+    },
+    {
+      "key": "unsaved",
+      "id": "50:31284",
+      "w": 1920,
+      "h": 1080
+    },
+    {
+      "key": "saved-all",
+      "id": "50:32208",
+      "w": 1920,
+      "h": 1080
+    },
+    {
+      "key": "checked",
+      "id": "51:8335",
+      "w": 1920,
+      "h": 1080
+    },
+    {
+      "key": "request-saved",
+      "id": "51:9478",
+      "w": 1920,
+      "h": 1080
+    },
+    {
+      "key": "bond-recorded",
+      "id": "51:10633",
+      "w": 1920,
+      "h": 1080
+    },
+    {
+      "key": "weekly",
+      "id": "79:7137",
+      "w": 1920,
+      "h": 1080
+    },
+    {
+      "key": "upfront",
+      "id": "79:7560",
+      "w": 1920,
+      "h": 1080
+    },
+    {
+      "key": "share",
+      "id": "79:7983",
+      "w": 1920,
+      "h": 1080
+    },
+    {
+      "key": "student",
+      "id": "79:8273",
+      "w": 1920,
+      "h": 1080
+    },
+    {
+      "key": "request-filled",
+      "id": "79:8561",
+      "w": 1920,
+      "h": 1080
+    },
+    {
+      "key": "redfern-unsaved",
+      "id": "79:9120",
+      "w": 1920,
+      "h": 1080
+    },
+    {
+      "key": "selected-newtown",
+      "id": "79:9543",
+      "w": 1920,
+      "h": 1080
+    },
+    {
+      "key": "selected-redfern",
+      "id": "79:9964",
+      "w": 1920,
+      "h": 1080
+    },
+    {
+      "key": "selected-glebe-redfern",
+      "id": "79:10385",
+      "w": 1920,
+      "h": 1080
+    },
+    {
+      "key": "selected-newtown-redfern",
+      "id": "79:10808",
+      "w": 1920,
+      "h": 1080
+    },
+    {
+      "key": "selected-three",
+      "id": "79:11231",
+      "w": 1920,
+      "h": 1080
+    },
+    {
+      "key": "compare-glebe-redfern",
+      "id": "79:11656",
+      "w": 1920,
+      "h": 1080
+    },
+    {
+      "key": "compare-newtown-redfern",
+      "id": "79:11881",
+      "w": 1920,
+      "h": 1080
+    },
+    {
+      "key": "compare-three",
+      "id": "79:12110",
+      "w": 1920,
+      "h": 1080
+    },
+    {
+      "key": "compare-empty",
+      "id": "79:12374",
+      "w": 1920,
+      "h": 1080
+    },
+    {
+      "key": "inspections-shared",
+      "id": "79:12489",
+      "w": 1920,
+      "h": 1080
+    },
+    {
+      "key": "glebe-shared",
+      "id": "79:12636",
+      "w": 1920,
+      "h": 1080
+    },
+    {
+      "key": "redfern-shared",
+      "id": "79:13108",
+      "w": 1920,
+      "h": 1080
+    },
+    {
+      "key": "guide-expanded",
+      "id": "79:13580",
+      "w": 1920,
+      "h": 1080
+    },
+    {
+      "key": "glebe-costs-expanded",
+      "id": "79:13785",
+      "w": 1920,
+      "h": 1080
+    },
+    {
+      "key": "newtown-costs-expanded",
+      "id": "79:14310",
+      "w": 1920,
+      "h": 1080
+    },
+    {
+      "key": "redfern-costs-expanded",
+      "id": "79:14840",
+      "w": 1920,
+      "h": 1080
+    },
+    {
+      "key": "glebe-trust-expanded",
+      "id": "82:38",
+      "w": 1920,
+      "h": 1080
+    },
+    {
+      "key": "newtown-trust-expanded",
+      "id": "82:535",
+      "w": 1920,
+      "h": 1080
+    },
+    {
+      "key": "redfern-trust-expanded",
+      "id": "82:1029",
+      "w": 1920,
+      "h": 1080
+    },
+    {
+      "key": "imported-demo-overview",
+      "id": "82:1526",
+      "w": 1920,
+      "h": 1080
+    },
+    {
+      "key": "imported-demo-costs",
+      "id": "82:2071",
+      "w": 1920,
+      "h": 1080
+    },
+    {
+      "key": "imported-demo-trust",
+      "id": "82:2651",
+      "w": 1920,
+      "h": 1080
+    },
+    {
+      "key": "imported-demo-inspection",
+      "id": "83:38",
+      "w": 1920,
+      "h": 1080
+    }
+  ],
+  "updated": "2026-10-08"
+}

@@ -1,5 +1,24 @@
 # Prototype verification
 
+## Feedback revision, 8 October 2026
+
+Verified in Chrome at 1920x1080 and 390x844:
+
+- Clicking the listing image or price opens details; Enter on the listing title opens the same view.
+- Save and Compare work independently without opening the listing.
+- Study and visa dates start blank and can both remain blank when saving preferences.
+- The date filter asks for an optional date when none is set. Adding 30 June 2027 returns two matching listings; clearing it resets the filter.
+- My inspections and Other students’ inspections show separate records. Reading a fictional shared report leaves all personal checks untouched.
+- A personal checked item and notes survive a reload.
+- Bond help expands on demand and receipt status can be recorded.
+- Import still accepts manually entered listings, escapes markup in titles and retains unknown totals.
+- No page errors or horizontal page overflow were observed in these flows.
+- JavaScript syntax checks pass for the app, server and capture scene helper.
+
+Figma structural verification: 64 main screens at 1920x1080, 55 visible listing cards connected to details, 26 reusable components and no missing destinations. Checklist dropdowns have independent variables and counter expressions. This verifies the saved prototype structure; the Figma player was not exercised in a signed-in browser.
+
+The checks below describe the earlier version and remain as historical results.
+
 Tested on 24 September 2026 using Chrome at `http://localhost:5173`.
 
 ## Functional checks
